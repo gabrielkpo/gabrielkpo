@@ -1,7 +1,6 @@
 # Hi, I'm Gabriel 👋
 
 AI engineering student at **ENSEEIHT** (Toulouse), currently on a gap year at **Finary**.
-I like building tools end to end, from the model to the deployment, and shipping them to real users.
 
 ### 🔨 Now
 Building **SecoursTech v3**, an assistant for firefighters that answers from official operational doctrine (RAG with source citations, agents, evaluation), on Mistral models.
