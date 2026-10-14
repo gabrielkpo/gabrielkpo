@@ -1,3 +1,5 @@
+AI engineering student at ENSEEIHT · ML engineer at Finary
+
 ### 🔨 Now
 Building **SecoursTech v3**: a RAG assistant that answers firefighters' questions from official
 operational doctrine, with source citations, a measured evaluation and monitoring, on Mistral models.
