@@ -1,3 +1,4 @@
+### Hi 👋🏼
 AI engineering student at ENSEEIHT · ML engineer at Finary
 
 ### 🔨 Now
