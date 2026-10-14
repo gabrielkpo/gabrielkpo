@@ -1,6 +1,6 @@
 # Hi, I'm Gabriel 👋
 
-AI engineering student @ ENSEEIHT · Building LLM apps (RAG, agentic system, MCP).
+AI engineering student @ENSEEIHT · Building LLM apps (RAG, agentic system, MCP).
 
 ### 🔨 Now
 Building **SecoursTech v3**, an assistant for firefighters that answers from official operational doctrine (RAG with source citations, agents, evaluation), on Mistral models.
