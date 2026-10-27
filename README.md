@@ -10,7 +10,8 @@ Four projects on Mistral models, built in public:
 - **[Lifter](https://github.com/gabrielkpo/lifter)**: training coach agent on my own Garmin data
   (LangGraph + Mistral), with human approval before any write. v0.6.0 in production.
 - **[Alias](https://github.com/gabrielkpo/alias)**: local PII masking before an LLM call (FR + EN).
-  Rules, masking and restoring done, NER model trained (mmBERT-small); combining rules and model next.
+  Rules, masking and restoring done, NER model trained (mmBERT-small); combining rules and model
+  next.
 - **[hpc-inference-sizing](https://github.com/gabrielkpo/hpc-inference-sizing)**: how many GPUs
   to serve Mistral Small 4 (119B MoE) under a latency target, measured with vLLM on a rented
   multi-GPU node. Protocol written, memory model and measurement bench next.
